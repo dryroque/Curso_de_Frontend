@@ -1,0 +1,28 @@
+div {
+    margin: 5px;
+    border-style: solid;
+}
+
+.calc {
+    width: calc(100% - 100);
+}
+
+.rgb {
+    background-color: rgb(0, 255, 100);
+}
+
+.rgba {
+    background-color: rgba(0, 255, 100, .5);
+}
+
+.rotate {
+    transform: rotate(35deg);
+}
+
+.max {
+    width: max(40%, 400px);
+}
+
+.min {
+    width: min(40%, 100px);
+}

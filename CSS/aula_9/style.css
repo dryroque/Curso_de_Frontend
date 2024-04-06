@@ -1,0 +1,38 @@
+div {
+    background-color: cadetblue;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+}
+
+.div1 {
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+}
+
+.div2 {
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    border: solid 5px black;
+}
+
+.div3 {
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    margin: 30px;
+}
+
+.div4 {
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 25px;
+    padding-left: 10px;
+    border-top: solid 5px black;
+    border-right: dashed 8px pink;
+    margin-right: 30px;
+}

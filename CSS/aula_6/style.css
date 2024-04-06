@@ -1,0 +1,11 @@
+.font_longhand {
+    font-style: italic;
+    font-weight: bold;
+    font-size: .8em;
+    line-height: 1.2;
+    font-family: Arial, sans-serif;
+}
+
+.font_shorthand {
+    font: italic bold .8em/1.2 Arial, sans-serif;
+}

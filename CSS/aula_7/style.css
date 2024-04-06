@@ -1,0 +1,19 @@
+* {
+    color: red;
+}
+
+div {
+    color: blue;
+}
+
+section div {
+    color: lightcoral;
+}
+
+.minha-classe {
+    color: yellow;
+}
+
+#meu-id {
+    color: green;
+}

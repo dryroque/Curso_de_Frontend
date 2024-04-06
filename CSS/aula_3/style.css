@@ -1,0 +1,11 @@
+.keyword {
+    color: red;
+    font-size: medium;
+    font-weight: bold;
+}
+
+.unit {
+    color: #ff0000;
+    font-size: 16px;
+    font-weight: 100;
+}
